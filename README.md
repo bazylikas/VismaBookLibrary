@@ -1,7 +1,7 @@
 # Visma internship .net developer task
 
 ○Command to add a new book. All the book data should be stored in a JSON file. Book 
-model should contain the following properties:
+model should contain the following properties: <br />
 ●Name <br />
 ●Author <br />
 ●Category <br />
