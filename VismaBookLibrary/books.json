@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "category": "fantasy",
+    "language": "english",
+    "publicationDate": "2003-05-21",
+    "ISBN": "978-0747551003",
+    "taken": false,
+    "takeDate": null,
+    "returnDate": null,
+    "reader": null
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "category": "fiction",
+    "language": "english",
+    "publicationDate": "1945-08-17",
+    "ISBN": "978-9390960491",
+    "taken": false,
+    "takeDate": null,
+    "returnDate": null,
+    "reader": null
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "category": "horror",
+    "language": "english",
+    "publicationDate": "1986-02-26",
+    "ISBN": "978-1551111360",
+    "taken": false,
+    "takeDate": null,
+    "returnDate": null,
+    "reader": null
+  }
+]
