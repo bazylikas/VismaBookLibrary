@@ -10,7 +10,7 @@ model should contain the following properties: <br />
 ●ISBN <br />
 ○ Command to take a book from the library. The command should specify who is taking
 the book and for what period the book is taken. Taking the book longer than two months
-should not be allowed. Taking more than 3 books should not be allowed.
+should not be allowed. Taking more than 3 books should not be allowed. <br />
 ○ Command to return a book. <br />
 ● If a return is late you could display a funny message :) <br />
 ○ Command to list all the books. Add the following parameters to filter the data: <br />
